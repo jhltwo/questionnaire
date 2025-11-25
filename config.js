@@ -3,7 +3,7 @@ const CONFIG_KEY = 'questionnaire_links';
 
 // 默认配置
 const DEFAULT_CONFIG = {
-    executiveLink: 'https://v.wjx.cn/vm/tTSo4zA.aspx#',
+    executiveLink: 'https://www.wjx.top/vm/eaY0WwB.aspx#',
     employeeLink: 'https://v.wjx.cn/vm/QZCzMPc.aspx#'
 };
 
@@ -34,3 +34,4 @@ function saveConfig(executiveLink, employeeLink) {
         return false;
     }
 }
+
